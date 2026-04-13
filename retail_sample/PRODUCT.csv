@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price,unit_cost,sku,stock_quantity
+PRD001,Wireless Headphones,Electronics,79.99,35.00,SKU-E001,142
+PRD002,USB-C Charging Cable,Electronics,14.99,3.50,SKU-E002,580
+PRD003,Bluetooth Speaker,Electronics,49.99,22.00,SKU-E003,97
+PRD004,Men's Running Shoes,Footwear,89.99,42.00,SKU-F001,63
+PRD005,Women's Running Shoes,Footwear,89.99,42.00,SKU-F002,58
+PRD006,Cotton T-Shirt,Apparel,19.99,6.00,SKU-A001,310
+PRD007,Fleece Hoodie,Apparel,49.99,18.00,SKU-A002,174
+PRD008,Stainless Steel Water Bottle,Home & Kitchen,24.99,8.00,SKU-H001,225
+PRD009,Yoga Mat,Sports & Fitness,34.99,12.00,SKU-S001,118
+PRD010,Laptop Sleeve 15in,Accessories,29.99,9.00,SKU-AC001,89
+PRD011,LED Desk Lamp,Home & Office,39.99,16.00,SKU-H002,76
+PRD012,Notebook Set 3-Pack,Stationery,12.99,3.50,SKU-ST001,403
+PRD013,Ceramic Coffee Mug,Home & Kitchen,14.99,4.00,SKU-H003,291
+PRD014,Polarized Sunglasses,Accessories,59.99,20.00,SKU-AC002,112
+PRD015,Canvas Backpack,Bags,69.99,28.00,SKU-B001,85

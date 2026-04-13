@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,created_date
+C001,John,Smith,john.smith@email.com,555-0101,123 Oak St,Austin,TX,78701,2023-01-15
+C002,Sarah,Johnson,sarah.j@gmail.com,555-0102,456 Maple Ave,Denver,CO,80201,2023-02-20
+C003,Michael,Williams,m.williams@yahoo.com,555-0103,789 Pine Rd,Seattle,WA,98101,2023-03-10
+C004,Emily,Brown,emily.brown@outlook.com,555-0104,321 Elm St,Chicago,IL,60601,2023-04-05
+C005,David,Jones,david.jones@email.com,555-0105,654 Cedar Ln,Miami,FL,33101,2023-05-18
+C006,Jessica,Davis,jess.davis@gmail.com,555-0106,987 Birch Blvd,Portland,OR,97201,2023-06-22
+C007,Robert,Miller,rob.miller@email.com,555-0107,147 Willow Way,Nashville,TN,37201,2023-07-14
+C008,Amanda,Wilson,amanda.w@yahoo.com,555-0108,258 Spruce St,Phoenix,AZ,85001,2023-08-30
+C009,James,Moore,james.moore@gmail.com,555-0109,369 Ash Ave,Boston,MA,02101,2023-09-12
+C010,Jennifer,Taylor,jen.taylor@outlook.com,555-0110,741 Poplar Dr,Atlanta,GA,30301,2023-10-25
+C011,William,Anderson,will.a@email.com,555-0111,852 Hickory Ct,Minneapolis,MN,55401,2023-11-08
+C012,Lisa,Thomas,lisa.t@gmail.com,555-0112,963 Walnut Rd,Dallas,TX,75201,2023-12-15
+C013,Christopher,Jackson,chris.j@yahoo.com,555-0113,159 Magnolia St,San Francisco,CA,94101,2024-01-20
+C014,Michelle,White,m.white@email.com,555-0114,267 Chestnut Ave,Las Vegas,NV,89101,2024-02-14
+C015,Daniel,Harris,dan.harris@gmail.com,555-0115,374 Sycamore Blvd,Charlotte,NC,28201,2024-03-05
